@@ -18,6 +18,6 @@ localhost/phpfile.php?HiddenU
 CMD
 localhost/phpfile.php?HiddenX
 
-![SS](SS/Cmd.jpg)
+![SS](SS/cmd.jpg)
 
 ENJOY...
