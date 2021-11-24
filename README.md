@@ -1,4 +1,4 @@
-# A Simple PHP Hidden CMD and Hidden Uploader In Same Files
+# Hidden Php Shell
 This Is A Simple PHP Hidden CMD and Hidden Uploader In Same Files
 You Can Hide It Anywhere PHP Files You Want
 
